@@ -1,0 +1,58 @@
+body{
+   background-color: #ECF39E;
+   margin: 0;
+   padding: 0;
+}
+nav{
+    height: 3rem;
+    background-color: #4F772D;
+    padding: 0.25rem ;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex_container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.description_price {
+    justify-content: space-around;
+    padding-top: 1rem;
+}
+  
+.description {
+    align-items: flex-start;
+    gap: 2rem;
+}
+  
+.description > img {
+    width: 10rem;
+}
+  
+.w_40 {
+    width: 40vw;
+}
+  
+.text_justify {
+    text-align: justify;
+}
+  
+.mt_1_25 {
+    margin-top: 1.25rem;
+}
+  
+.mt_2 {
+    margin-top: 2rem;
+  }
+  
+.historical {
+    position: relative; 
+    height:15rem; 
+    width:50vw;
+    margin: auto;
+}
+
+
+  

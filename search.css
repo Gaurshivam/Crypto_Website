@@ -1,0 +1,15 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: #ECF39E;
+}
+nav{
+    height: 4rem;
+    background-color: #4F772D;
+    padding: 0.25rem 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    margin: 1rem;
+}
